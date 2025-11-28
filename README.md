@@ -1,7 +1,7 @@
 ## Voice2Voice Bank Assistant
 
 ## 🔗 Demo Link  
-[https://your-demo-url-here.com](https://drive.google.com/drive/folders/1cBYYg9c3w20xAlZUDEvDOFOEkf7KEoAZ)
+[[https://your-demo-url-here.com](https://drive.google.com/drive/folders/1cBYYg9c3w20xAlZUDEvDOFOEkf7KEoAZ](https://drive.google.com/file/d/1Q20ZaCWBJP550r98i7B1VjQ0WmckGlci/view?usp=drive_link))
 
 
 ![project-flow](project_info/project-flow.png) 
